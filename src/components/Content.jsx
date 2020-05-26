@@ -1,6 +1,7 @@
 import React from "react";
 import ProfileInfo from "./contentBar/Profile_Info";
 import ProfilePost from "./contentBar/Profile_post";
+import './Content.css';
 
 // Основной контент
 

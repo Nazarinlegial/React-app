@@ -1,4 +1,5 @@
 import React from "react";
+import './Profile_post.css';
 
 // Посты профиля
 

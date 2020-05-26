@@ -1,0 +1,18 @@
+.nav {
+  display: block;
+  width: 15%;
+  background-color: lightseagreen;
+  padding-left: 10px;
+}
+
+.nav ul {
+  text-align: left;
+  padding-top: 7px;
+  padding-bottom: 15px;
+}
+
+.nav a {
+  font-size: 19px;
+  font-weight: 400;
+  color: #fff;
+}

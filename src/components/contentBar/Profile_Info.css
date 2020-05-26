@@ -1,0 +1,33 @@
+.img-profile img {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.info-profile-box {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.avatar_img {
+  margin-right: 30px;
+}
+
+.avatar_img img {
+  width: 140px;
+  height: 140px;
+}
+
+.profile__name {
+  font-size: 24px;
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+.info-profile ul li {
+  font-size: 17px;
+  line-height: 23px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}

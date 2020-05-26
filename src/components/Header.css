@@ -1,0 +1,10 @@
+.header {
+  display: block;
+  height: 60px;
+  background-color: lightseagreen;
+  margin-bottom: 10px;
+}
+
+.header img {
+  width: 60px;
+}
